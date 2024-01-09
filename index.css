@@ -301,6 +301,7 @@ body {
   .pageDescription {
     margin-left: 90px;
   }
-  .accordion-body {
+  .navList {
+    display: none;
   }
 }
